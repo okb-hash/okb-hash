@@ -1,16 +1,14 @@
-### Hi there 👋
+<a href="https://okhash.org" title="OK Hash">OK Hash</a> gives you an experience for gambling of the future, where 
+fairness and excitement come together. Join us now for an exciting 
+gaming adventure! 👋 👋 👋
 
-<!--
-**okb-hash/okb-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Promotion URL ✨
+<a href="https://okhash.org" title="OK Hash">https://okhash.org</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Hash Games ✨
+OK Hash Size<br>
+OK Hash Odd/Even<br>
+OK Hash Baccarat<br>
+OK Hash Bull<br>
+OK Hash Lottery<br>
+OK Lucky Hash<br>
